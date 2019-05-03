@@ -1,0 +1,24 @@
+[cmdline]
+0=less apache2  
+1=less apa
+2=vi ap
+3=quit
+4=q
+5=10
+6=\s3
+7=
+8=[<0;115;30M
+
+[Dir Hist New Right Panel]
+0=/etc/mysql/mariadb.conf.d
+1=/etc/mysql/conf.d
+2=/etc/mysql
+3=/etc/mysql/mysql.conf.d
+4=/etc/apache2
+
+[Dir Hist New Left Panel]
+0=/etc/apache2/sites-available
+1=/etc/mysql/mariadb.conf.d
+2=/etc/mysql
+3=/etc/mysql/mysql.conf.d
+4=/etc/apache2
